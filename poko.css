@@ -26,7 +26,7 @@ a {
 }
 
 body {
-  background: #9b2a30;
+  background: #0088cc;
   margin: 0;
   overflow-x: hidden;
   width: 100%;
@@ -189,7 +189,7 @@ button:active {
 
 .section-12 {
   display: flex;
-  background-color: #9b2a30;
+  background-color: #0088cc;
   justify-content: center;
   align-items: center;
 }
@@ -785,7 +785,7 @@ input::-ms-selection {
 
 .fcard {
   padding: 30px;
-  background-color: #9b2a30;
+  background-color: #0088cc;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -803,7 +803,7 @@ input::-ms-selection {
 
 .fcard2 {
   padding: 30px;
-  background-color: #9b2a30;
+  background-color: #0088cc;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -1164,7 +1164,7 @@ button img {
   /* margin-top: 1rem; */
   justify-content: center;
   align-items: center;
-  background-color: #9b2a30;
+  background-color: #0088cc;
 }
 
 .green-text {
@@ -1178,7 +1178,7 @@ button img {
 }
 
 .section-3 {
-  background-color: #9b2a30;
+  background-color: #0088cc;
   position: relative;
   margin-top: 8rem;
   margin-bottom: 5rem;
@@ -1360,7 +1360,7 @@ img.right-img {
   }
   .section-3 {
     display: flex;
-    background-color: #9b2a30;
+    background-color: #0088cc;
     flex-direction: row-reverse;
     padding-inline: 20px;
     align-items: center;
