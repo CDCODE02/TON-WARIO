@@ -115,7 +115,7 @@ header {
 
 button {
   font-weight: 900;
-  background-color: #2949ea;
+  background-color: #002cc0;
   /* color: rgb(39, 26, 26); */
   cursor: pointer;
   color: white;
@@ -150,7 +150,7 @@ button {
 
 .center p {
   font-size: 5rem;
-  color: rgb(241, 235, 236);
+  color: rgb(16, 1, 4);
 }
 
 .main-button button.launch,
@@ -617,7 +617,7 @@ input::-ms-selection {
   content: "";
   position: absolute;
   width: 3px;
-  background-color: #2949ea;
+  background-color: #002cc0;
   top: 0;
   bottom: 0;
   left: 50%;
@@ -822,7 +822,7 @@ input::-ms-selection {
 
 button.buy {
   margin-top: 1rem;
-  background-color: #2949ea;
+  background-color: #002cc0;
 }
 
 .tools {
@@ -925,7 +925,7 @@ input {
 
 .fcard3 {
   padding: 30px;
-  background-color: #2949ea;
+  background-color: #002cc0;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -947,7 +947,7 @@ input {
 }
 
 .sect-cont {
-  background-color: #2949ea;
+  background-color: #002cc0;
   border: 2px solid #c7cdd5;
   padding: 20px;
   margin: 30px;
@@ -996,7 +996,7 @@ button img {
 
 .fcard4 {
   padding: 30px;
-  background-color: #2949ea;
+  background-color: #002cc0;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -1475,7 +1475,7 @@ img.right-img {
   }
   .center p {
     font-size: 9rem;
-    color: #bbbdc0;
+    color: rgb(16, 1, 4);
   }
   .section-e {
     margin-top: -2rem;
@@ -1485,7 +1485,7 @@ img.right-img {
     font-family: snart;
   }
   .sect-cont {
-    background-color: #2949ea;
+    background-color: #002cc0;
     border: 2px solid rgb(0, 0, 0);
     padding: 40px;
     margin: 30px;
